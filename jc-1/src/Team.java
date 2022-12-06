@@ -1,4 +1,5 @@
 public class Team {
+    
     private String name;
     private Person[] peoples;
 
